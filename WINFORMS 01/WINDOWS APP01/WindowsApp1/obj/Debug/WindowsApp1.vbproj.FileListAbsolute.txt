@@ -1,0 +1,14 @@
+C:\ironworks\CLIENTS\VS VBA APPS\WINFORMS 01\WINDOWS APP01\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\ironworks\CLIENTS\VS VBA APPS\WINFORMS 01\WINDOWS APP01\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\ironworks\CLIENTS\VS VBA APPS\WINFORMS 01\WINDOWS APP01\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\ironworks\CLIENTS\VS VBA APPS\WINFORMS 01\WINDOWS APP01\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\ironworks\CLIENTS\VS VBA APPS\WINFORMS 01\WINDOWS APP01\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\ironworks\CLIENTS\VS VBA APPS\WINFORMS 01\WINDOWS APP01\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\ironworks\CLIENTS\VS VBA APPS\WINFORMS 01\WINDOWS APP01\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\ironworks\CLIENTS\VS VBA APPS\WINFORMS 01\WINDOWS APP01\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\ironworks\CLIENTS\VS VBA APPS\WINFORMS 01\WINDOWS APP01\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\ironworks\CLIENTS\VS VBA APPS\WINFORMS 01\WINDOWS APP01\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\ironworks\CLIENTS\VS VBA APPS\WINFORMS 01\WINDOWS APP01\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\ironworks\CLIENTS\VS VBA APPS\WINFORMS 01\WINDOWS APP01\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\ironworks\CLIENTS\VS VBA APPS\WINFORMS 01\WINDOWS APP01\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\ironworks\CLIENTS\VS VBA APPS\WINFORMS 01\WINDOWS APP01\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
